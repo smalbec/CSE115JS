@@ -1,0 +1,1 @@
+console.log(Math.cos(1.84))
